@@ -1,6 +1,5 @@
 public class FizzBuzz {
     public static Object getValue(int number) {
-
         if (number % 3 == 0 && number % 5 == 0) {
             return "FizzBuzz";
         }
